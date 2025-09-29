@@ -1,34 +1,36 @@
-# Python Expert
-
+# Experto en Python
 Curso del Prof. Derlis
 
+---
 
-
-## Environment Variables
-
+## Variables de entorno
 Variables para tener en cuenta en db
 
-`db`
+**db**
 
-`host`
-`port`
+`host` `port`
 
+---
 
-## FAQ
+## Preguntas frecuentes
 
-#### como Instalar Modulo de Flask
+- como Instalar Modulo de Flask
+    ```bash
+    pip instalar flask
+    ```
+- cómo correr el Python
+    ```
+    aplicación Python.py
+    ```
 
-pip install flask
+---
 
-#### como correr el python
+## 🛠️ Habilidades
 
-python app.py
+Experto en Python...
 
+---
 
-## 🛠 Skills
-Python Expert...
+## Manifestación
 
-
-## Demo
-
-Insert gif or link to demo
+Insertar gif o enlace a demostración
