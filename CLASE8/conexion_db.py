@@ -12,6 +12,7 @@ try:
     conn = psycopg2.connect(
         host=host,
         port=port,
+        user=user,
         dbname=database,
         password=password
     )
